@@ -37,11 +37,13 @@ h2 {
     margin-bottom: 20px;
 }
 
-.skills-list {
+.skills-list,
+.projects-list {
     list-style-type: none;
     padding: 0;
 }
 
-.skills-list li {
+.skills-list li,
+.projects-list li {
     margin-bottom: 10px;
 }
