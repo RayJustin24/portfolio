@@ -47,3 +47,14 @@ h2 {
 .projects-list li {
     margin-bottom: 10px;
 }
+
+/* Additional design for project links */
+.projects-list a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.projects-list a:hover {
+    color: #0056b3;
+}
