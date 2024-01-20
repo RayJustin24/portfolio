@@ -48,7 +48,6 @@ h2 {
     margin-bottom: 10px;
 }
 
-/* Additional design for project links */
 .projects-list a {
     color: #007BFF;
     text-decoration: none;
@@ -59,9 +58,8 @@ h2 {
     color: #0056b3;
 }
 
-/* Add styling for social icons */
 .social-icon img {
-    width: 30px; /* Adjust the size as needed */
+    width: 30px; 
     height: 30px;
     margin-top: 10px;
 }
@@ -84,4 +82,3 @@ h2 {
     margin-top: 10px;
 }
 
-/* ... (existing code) ... */
