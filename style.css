@@ -37,4 +37,11 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Add additional styling as needed */
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-list li {
+    margin-bottom: 10px;
+}
