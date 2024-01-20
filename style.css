@@ -48,6 +48,7 @@ h2 {
     margin-bottom: 10px;
 }
 
+/* Additional design for project links */
 .projects-list a {
     color: #007BFF;
     text-decoration: none;
@@ -58,10 +59,15 @@ h2 {
     color: #0056b3;
 }
 
-.social-icon img {
-    width: 30px; 
-    height: 30px;
-    margin-top: 10px;
+/* Add styling for social icons */
+.social-icon a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social-icon a:hover {
+    color: #0056b3;
 }
 
 /* Contact section */
@@ -81,4 +87,5 @@ h2 {
 #contact p {
     margin-top: 10px;
 }
+
 
